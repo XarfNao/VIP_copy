@@ -2,6 +2,7 @@
 GREYCORTEX Vulnerability Intelligence Platform
 
 This is a copy of a project I worked on -> [original repository](https://github.com/greycortex/VIP)
+- created during high school studies
 
 ## About
 At the moment, this program can work with objects representing CPEs, CVEs, CWEs and CAPECs.
